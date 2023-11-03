@@ -1,0 +1,57 @@
+body{
+    background-color: palevioletred;
+    font-family: 'Poppins', sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+ }
+ .container{
+    width: 360px;
+    padding: 33px;
+    text-align: center;
+    background-color:black;
+    margin-left: 33%;
+    margin-top: 70px;
+    border-radius: 15px;
+
+    
+ }
+ input{
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(6, 145, 145);
+    outline: none;
+    font-size: 15px;
+    border-radius: 40px;
+    background-color: aqua;
+
+
+ }
+ button{
+    width: 65px;
+    height: 35px;
+    background-color:orangered;
+    color: black;
+    border: none;
+    cursor: pointer;
+
+    outline: none;
+    border-radius: 2px;
+    font-size: 15px;
+    border-radius: 40px;
+ }
+ .text ul{
+    position: relative;
+    background-color: rgb(5, 31, 31);
+    color: white;
+    font-size: 19px;
+    padding: 7px;
+    text-align: left;
+    border-radius: 13px;
+ }
+ .text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+ }
+ h1{
+   color: green;
+ }
